@@ -13,4 +13,5 @@ This project generates personalized cover letter using AI based on user's resume
  -run the ollama using  ollama run llama3
 ## Run the Project
 pip install -r requirements.txt
- run the application using Streamlit run app.py
+## Run the Application
+ Streamlit run app.py
